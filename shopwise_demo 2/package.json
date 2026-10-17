@@ -1,0 +1,13 @@
+{
+  "name": "shopwise-ai-assistant",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Shopwise demonstration shopping comparison website with Hugging Face free-credit AI chat",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
