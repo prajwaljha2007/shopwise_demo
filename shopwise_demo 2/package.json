@@ -1,8 +1,0 @@
-{
-  "name": "shopwise-ai-assistant",
-  "version": "2.0.0",
-  "private": true,
-  "description": "Shopwise comparison prototype with optional real AI chat using a secure backend",
-  "scripts": {"start": "node server.js", "test": "node --test"},
-  "engines": {"node": ">=20"}
-}
